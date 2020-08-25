@@ -1,0 +1,189 @@
+body{
+  background-color:#474747;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+
+
+dl{
+    font-size:15pt;
+    line-height: 40px;
+   
+}
+
+dt{
+     font-size:20pt;
+     line-height: 50px;
+}
+
+
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: -webkit-sticky; 
+    position: sticky;
+    top: 0;
+    
+  }
+
+
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  li a:hover {
+    background-color: #111;
+  }
+
+  .active {
+    background-color: #CA7900;
+  }
+
+  .lienH{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+  }
+
+  .histoire{
+    margin-top: 50px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-left:0%;
+    padding-left:2%;
+    padding-right:2%;
+  }
+
+   .Salar{
+    width: 250px;
+	  height: 250px;
+   
+  }
+
+  .DefSalar{
+    float: right;
+    margin-right:550px;
+    margin-top: -150px;
+   
+
+  }
+
+
+  .Ralas{
+    width: 250px;
+	  height: 250px;
+  }
+
+  .DefRalas{
+    float: right;
+    margin-right:40px;
+    margin-top: -150px;
+
+  }
+  
+
+
+  .Zerod{
+    width: 250px;
+	  height: 250px;
+  }
+
+  .DefZerod{
+    float: right;
+    margin-right:150px;
+    margin-top: -150px;
+
+  }
+
+  .Boss1{
+    width: 250px;
+	  height: 250px;
+  }
+
+  .DefBoss1{
+    float: right;
+    margin-right:450px;
+    margin-top: -200px;
+
+  }
+
+  .Boss2{
+    width: 250px;
+	  height: 250px;
+  }
+
+  .DefBoss2{
+    float: right;
+    margin-right:550px;
+    margin-top: -200px;
+
+  }
+
+  .Boss3{
+    width: 250px;
+	  height: 250px;
+  }
+
+  .DefBoss3{
+    float: right;
+    margin-right:330px;
+    margin-top: -200px;
+
+  }
+
+  .img-valign {
+  vertical-align: middle;
+  margin-bottom: 0.75em;
+}
+
+.text1 {
+  font-size: 44px;
+}
+
+.text2 {
+  font-size: 24px;
+}
+
+
+.ml9 {
+  position: relative;
+  font-weight: 200;
+  font-size: 4em;
+}
+
+.ml9 .text-wrapper {
+  position: relative;
+  display: inline-block;
+  padding-top: 0.2em;
+  padding-right: 0.05em;
+  padding-bottom: 0.1em;
+  overflow: hidden;
+}
+
+.ml9 .letter {
+  transform-origin: 50% 100%;
+  display: inline-block;
+  line-height: 1em;
+}
